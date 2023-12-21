@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.mycanvas{
+    background-color: pink;
+    height: 450px;
+    width: 400px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.santa{
+    position: relative;
+    top: 165px;
+    left:95px;
+}
+.beard{
+    background-color: white;
+    height: 220px;
+    width:220px;
+    border-radius: 0 50% 50% 50%;
+    transform:rotate(-135deg);
+}
+.face{
+background-color: rgb(255, 221, 198);
+height: 60px;
+width: 155px;
+position: relative;
+bottom: 158px;
+left: 31px;
+border-radius: 35px;
+}
+.hat{
+    background-color: rgb(252, 78, 78);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    bottom: 420px;
+    left:35px;
+    border-radius: 0 200px 0 0 ;
+}
+.bottom{
+   background-color: white; 
+   height: 50px;
+   width: 200px;
+   border-radius: 20px;
+   position: relative;
+   top: 140px;
+   right: 24px;
+}
+.top{
+    background-color: white;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    position: relative;
+    bottom: 65px;
+    right: 35px;
+}
+.eyel,.eyer{
+heig
+}
